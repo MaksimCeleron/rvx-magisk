@@ -15,6 +15,7 @@ integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea ReVanced RevBlue Icon"
 build-mode = "both"
 included-patches = "'Custom branding icon YouTube' 'MaterialYou'"
+version = "latest"
 
 
 [YouTube Music]
@@ -24,3 +25,4 @@ integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea ReVanced RevBlue Icon"
 build-mode = "both"
 included-patches = "'Custom branding icon YouTube Music'"
+version = "latest"
